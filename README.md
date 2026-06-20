@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Newwbbie
-- 👀 I’m interested in Java, Python, Yolo...
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding.
